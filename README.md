@@ -1,4 +1,4 @@
-## 🐈 Free Guy 
+            ## 🐈 Free Guy 
 
 
 <!--
@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align="center">
+  <img src="https://metrics.lecoq.io/08hakr?template=classic&base.header=0&base.activity=0&base.community=0&repositories=1&metadata=1" alt="Metrics" />
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=08hakr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=08hakr&locale=en&hide_title=false&layout=compact&card_width=120&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
